@@ -14,39 +14,30 @@ Here are some ideas to get you started:
 -->
 <div align="center">
 
-# ⚔️ Hey, I'm Ankit
+#  Hii, I'm Ankit
 
-### 「 Backend • Android • AI/ML 」
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Building+with+Go+%F0%9F%90%B9;Android+with+Kotlin+%F0%9F%A4%96;Learning+AI+%26+Generative+AI+%F0%9F%A7%A0;Leveling+up+one+commit+at+a+time+%E2%9A%A1" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;Android+Developer;Learning+AI/ML+%26+Generative+AI;Leveling+up+one+commit+at+a+time+%E2%9A%A1" />
 
 </div>
 
-## 🌸 About Me
 
-- 🐹 Backend development with **Go**
-- 📱 Android development with **Kotlin**
-- 🐍 DSA with **Python**
-- 🗄️ PostgreSQL
-- 🧠 Learning **AI/ML + GenAI**
-- 🎯 Goal: **Software Development Engineer**
+## 🌸 About Me
+I'm Ankit — a CS undergrad exploring the world of backend development, Android apps, and AI/ML. I like building things that work, breaking them to see why, and fixing them a little better each time.
 
 ## ⚔️ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=go,kotlin,python,java,postgres,firebase,androidstudio,git,github,vscode&theme=dark" />
-
+<img src="https://skillicons.dev/icons?i=cpp,python,go,kotlin,javascript,typescript,postgres,firebase,androidstudio,git,github,vscode&theme=dark" alt="Tech stack icons" />
 </div>
 
 ## 🌸 Current Arc
-
+**Currently focused on:**
 ```txt
-Go Backend ⚔️
-Android 🤖
-DSA 🐍
-System Design 🏗️
-AIML and GenAI 🧠
+- Backend Development with Go and Python
+- Learning React
+- Data Structures and Algorithms using Python
+- Learning AI/ML and GenAI
 ```
 
 <div align="center">
@@ -54,5 +45,12 @@ AIML and GenAI 🧠
 ### 「 Learn • Build • Debug • Improve 」
 
 ⭐ Check out my pinned repositories below!
+
+</div>
+
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=Ankyt-Kumar&color=blueviolet&style=flat-square)
 
 </div>
