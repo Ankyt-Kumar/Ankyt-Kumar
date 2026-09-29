@@ -20,36 +20,36 @@ Here are some ideas to get you started:
 
 </div>
 
-Hi! I’m Ankit, a Web and Android Developer && Competitive Programmer. I enjoy building efficient, visually polished applications that solve real-world problems.
+Hi! I’m Ankit, a `Web and Android Developer` && `Competitive Programmer`. I enjoy building efficient, visually polished applications that solve real-world problems.
 
-I learn best by `building` — breaking complex problems into smaller pieces, solving them step by step, and continuously iterating until everything works exactly the way I want it to.</ins>
+I learn best by building — breaking complex problems into smaller pieces, solving them step by step, and continuously iterating until everything works exactly the way I want it to.</ins>
 
 <div align="center">
 
 ## ⚔️ Tech Stack I Use
 
 <p>
-  <a href="https://isocpp.org/"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" alt="C++" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://go.dev/"><img src="https://skillicons.dev/icons?i=go&theme=dark" alt="Go" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://kotlinlang.org/"><img src="https://skillicons.dev/icons?i=kotlin&theme=dark" alt="Kotlin" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=javascript&theme=dark" alt="JavaScript" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://isocpp.org/"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" alt="C++" /></a>
+  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python" /></a>
+  <a href="https://go.dev/"><img src="https://skillicons.dev/icons?i=go&theme=dark" alt="Go" /></a>
+  <a href="https://kotlinlang.org/"><img src="https://skillicons.dev/icons?i=kotlin&theme=dark" alt="Kotlin" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=javascript&theme=dark" alt="JavaScript" /></a>
   <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=typescript&theme=dark" alt="TypeScript" /></a>
 </p>
 
 <p>
-  <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://developer.android.com/compose"><img src="https://cdn.simpleicons.org/jetpackcompose/4285F4" width="48" height="48" alt="Jetpack Compose" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://fastapi.tiangolo.com/"><img src="https://skillicons.dev/icons?i=fastapi&theme=dark" alt="FastAPI" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React" /></a>
+  <a href="https://developer.android.com/compose"><img src="https://cdn.simpleicons.org/jetpackcompose/4285F4" width="48" height="48" alt="Jetpack Compose" /></a>
+  <a href="https://fastapi.tiangolo.com/"><img src="https://skillicons.dev/icons?i=fastapi&theme=dark" alt="FastAPI" /></a>
   <a href="https://www.djangoproject.com/"><img src="https://skillicons.dev/icons?i=django&theme=dark" alt="Django" /></a>
 </p>
 
 <p>
-  <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" alt="PostgreSQL" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://firebase.google.com/"><img src="https://skillicons.dev/icons?i=firebase&theme=dark" alt="Firebase" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://developer.android.com/studio"><img src="https://skillicons.dev/icons?i=androidstudio&theme=dark" alt="Android Studio" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" alt="PostgreSQL" /></a>
+  <a href="https://firebase.google.com/"><img src="https://skillicons.dev/icons?i=firebase&theme=dark" alt="Firebase" /></a>
+  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git" /></a>
+  <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" /></a>
+  <a href="https://developer.android.com/studio"><img src="https://skillicons.dev/icons?i=androidstudio&theme=dark" alt="Android Studio" /></a>
   <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="VS Code" /></a>
 </p>
 
